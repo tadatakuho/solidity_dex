@@ -1,7 +1,7 @@
 # solidity_dex
 solidityの練習 簡単なdex作成
 
-## 手順
+## 手順(未完成)
 ```
 npm install
 ```
