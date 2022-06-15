@@ -1,7 +1,14 @@
 # solidity_dex
 solidityの練習 簡単なdex作成
 
-## 手順(未完成)
+## 手順  
+
+参考記事↓  
+
+https://qiita.com/romorimori/items/155bb1f5e4cced629ce8  
+
+### パッケージインストール  
+
 ```
 npm install
 ```
@@ -11,9 +18,17 @@ npm install
 npm install -g truffle
 ```
 
-### Ganacheをインストール
-公式サイトからダウンロード  
-https://trufflesuite.com/ganache/
+### GanacheをインストールしてTruffleに接続
+- 公式サイトからダウンロード  
+https://trufflesuite.com/ganache/  
+  
+- Truffleに接続
+
+### デプロイ
+
+```
+ truffle migrate
+```
 
 
 
